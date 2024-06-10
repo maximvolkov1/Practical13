@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practical13</string>
+    <string name="PMI1">Popup menu item 1</string>
+    <string name="PMI2">Popup menu item 2</string>
+    <string name="PMI3">Popup menu item 3</string>
+    <string name="submenu">Подменю</string>
+    <string name="PMI4">Popup menu item 4</string>
+    <string name="PMI5">Popup menu item 5</string>
+    <string name="PMI6">Popup menu item 6</string>
+    <string name="title">Работа с PopupMenu</string>
+    <string name="buttonContent">Нажмите на меня</string>
+</resources>
